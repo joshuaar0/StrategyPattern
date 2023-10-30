@@ -1,5 +1,6 @@
 import java.util.*;
 
+//Hello
 class Course{
     private String _cnum;
     private int _credits;
